@@ -1,6 +1,6 @@
 import PropTypes from 'prop-types';
 
-const TodoItem = ({ itemProp }) => {
+const TodoItem = ({ itemProp, setTodos }) => {
   return (
     <li>
       <input type='checkbox' />
@@ -10,5 +10,6 @@ const TodoItem = ({ itemProp }) => {
 };
 TodoItem.propTypes = {
   itemProp: PropTypes.object.isRequired,
+  setTodos: PropTypes.func.isRequired,
 };
 export default TodoItem;
