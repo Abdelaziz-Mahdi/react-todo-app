@@ -1,6 +1,7 @@
 import TodoItem from '@/components/TodoItem';
+import PropTypes from 'prop-types';
 
-const TodosList = ({ todosProps }) => {
+const TodosList = ( { todosProps } ) => {
   return (
     <ul>
       {todosProps.map((todo) => (
@@ -9,4 +10,8 @@ const TodosList = ({ todosProps }) => {
     </ul>
   );
 };
+
+TodosList.propTypes = {
+  todosProps: PropTypes.array.isRequired,
+  };
 export default TodosList;
