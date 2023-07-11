@@ -42,17 +42,8 @@
   <ul>
     <li>JS</li>
     <li>React</li>
-    <li>ES6</li>
-    <li>CRA</li>
+    <li>Vite</li>
     <li>Jest</li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li>Gethub Pages</li>
-    <li>Netlify</a></li>
   </ul>
 </details>
 
@@ -69,7 +60,6 @@
 
 - **Use GitFlow.**
 - **Single page React app.**
-- **Use ES6 syntax.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -106,10 +96,8 @@ Install this project with:
 To run the project, execute the following command:
 
 - code .
-- git status
-- npm init
 - npm install
-- npm start
+- npm run dev
 
 ### Run tests
 
@@ -121,8 +109,7 @@ npm test
 
 You can deploy this project using:
 
-- Github Pages.
-- Netlify.
+- Render.com
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -142,8 +129,54 @@ You can deploy this project using:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Create Tests.**
-- [ ] **Deploy.**
+- [ ] 
+Part 6
+–
+React Developer Tools: Debug and optimize React apps
+- [ ] 
+Part 7
+–
+CSS in React: Styling React Components
+- [ ] 
+Part 8
+–
+React Todos App: Add Editing functionality
+- [ ] 
+Part 9
+–
+Profiling: Optimizing Performance in React
+- [ ] 
+Part 10
+–
+Using LocalStorage with React
+- [ ] 
+Part 11
+–
+How to Use React Icons
+- [ ] 
+Part 12
+–
+React Context API: Managing Application State
+- [ ] 
+Part 13
+–
+Zustand Tutorial: Managing React State
+- [ ] 
+Part 14
+–
+React Router: The Beginners Guide
+- [ ] 
+Part 15
+–
+React children props: What Is It?
+- [ ] 
+Part 16
+–
+React Toggle Button: Let’s Switch Navigation Widget
+- [ ] 
+Part 17
+–
+Deploy React App With Vercel
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
